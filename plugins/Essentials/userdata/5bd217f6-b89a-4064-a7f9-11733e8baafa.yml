@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.70.49.197
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643232107713
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644279872284
+  login: 1644279527791
+money: '0'
+last-account-name: Badbird5907
+logoutlocation:
+  world: f9afaab9-ef3b-4e60-8e5c-ef68e21e660a
+  world-name: world
+  x: 1937.300000011921
+  y: 96.0
+  z: 6438.821620656159
+  yaw: 41.608551025390625
+  pitch: 27.28652000427246

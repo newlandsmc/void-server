@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.83.167.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643442121820
+  login: 1643442111263
+money: '0'
+last-account-name: .sudoyou
+logoutlocation:
+  world: f9afaab9-ef3b-4e60-8e5c-ef68e21e660a
+  world-name: world
+  x: 4634.2104
+  y: 70.0
+  z: -3695.6194
+  yaw: 81.59832763671875
+  pitch: 9.222427368164062

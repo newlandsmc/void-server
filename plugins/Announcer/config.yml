@@ -1,0 +1,40 @@
+# The amount of time used for the interval
+interval: 1
+# The unit of time used for the interval
+#  Can be SECONDS, MINUTES, or HOURS
+interval-time-unit: 'HOURS'
+random-message-order: true
+gradient:
+  color-1: 'yellow'
+  color-2: 'red'
+  color-3: 'yellow'
+  speed: 0.1
+returning-player:
+  title-settings:
+    enabled: true
+    duration-seconds: 3600
+    fade-in: 1000
+    fade-out: 1000
+    title: ''
+    subtitle: 'We moved! New IP: play.khavalon.com'
+  join-sounds:
+    enabled: false
+    name: 'ui.toast.challenge_complete'
+    pitch: 1
+    source: master
+    volume: 0.8
+new-player:
+  title-settings:
+    enabled: true
+    duration-seconds: 3600
+    fade-in: 500
+    fade-out: 500
+    title: ''
+    subtitle: 'We moved! New IP: play.khavalon.com'
+  join-sounds:
+    enabled: false
+    name: 'UI_TOAST_CHALLENGE_COMPLETE'
+    pitch: 1
+    source: master
+    volume: 0.8
+messages: []

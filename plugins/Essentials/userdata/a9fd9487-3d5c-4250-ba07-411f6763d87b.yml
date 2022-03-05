@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.59.34.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642984529682
+  login: 1642984257805
+money: '0'
+last-account-name: StoRooski
+logoutlocation:
+  world: f9afaab9-ef3b-4e60-8e5c-ef68e21e660a
+  world-name: world
+  x: -6591.4021167097635
+  y: 67.0
+  z: 39.03677006023506
+  yaw: -128.096435546875
+  pitch: 65.99369812011719

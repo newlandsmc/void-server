@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.28.208.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643603956945
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644208615966
+  login: 1644207913448
+money: '0'
+last-account-name: __Shadow_Ninja__
+homes:
+  home:
+    world: f9afaab9-ef3b-4e60-8e5c-ef68e21e660a
+    world-name: world
+    x: -2854.723086020558
+    y: 67.0
+    z: -6839.742354561493
+    yaw: -166.1630096435547
+    pitch: 22.878860473632812
+logoutlocation:
+  world: 62027f1d-dcce-406c-a43f-a85a4fc5d298
+  world-name: world_nether
+  x: 1968.2355627838288
+  y: 128.0
+  z: -516.102813120764
+  yaw: 13.885397911071777
+  pitch: 27.709922790527344

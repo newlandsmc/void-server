@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.202.100.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642542578899
+  login: 1642542495338
+money: '0'
+last-account-name: Golden_Cookie
+logoutlocation:
+  world: f9afaab9-ef3b-4e60-8e5c-ef68e21e660a
+  world-name: world
+  x: -4382.19489311229
+  y: 99.0
+  z: -1222.3678371143094
+  yaw: -111.54818725585938
+  pitch: 44.209007263183594

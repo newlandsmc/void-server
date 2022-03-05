@@ -1,0 +1,13 @@
+{
+  "muted": false,
+  "deafened": false,
+  "selectedChannel": "carbon:global",
+  "username": "sudokou",
+  "uuid": "244a663c-bc0a-465e-8697-0c00ca7c5906",
+  "displayName": {
+    "color": "red",
+    "text": "test"
+  },
+  "spying": false,
+  "ignoredPlayers": []
+}

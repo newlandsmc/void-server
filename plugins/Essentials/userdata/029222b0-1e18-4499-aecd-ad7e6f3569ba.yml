@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 24.118.37.50
+afk: false
+socialspy: true
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643597759280
+  lastheal: 1643151789644
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643598486621
+  login: 1643597715565
+money: '0'
+last-account-name: DiscoCabbage788
+logoutlocation:
+  world: f9afaab9-ef3b-4e60-8e5c-ef68e21e660a
+  world-name: world
+  x: 4687.728987909126
+  y: 108.0
+  z: -3910.7623668261604
+  yaw: -132.75047302246094
+  pitch: -0.3000156283378601

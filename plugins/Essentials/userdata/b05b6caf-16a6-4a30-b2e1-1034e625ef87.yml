@@ -1,0 +1,33 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 8.46.37.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643840587463
+  lastheal: 1643840681414
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1645644323022
+  login: 1645643376623
+  command-cooldowns:
+  - pattern: (e)?(teleport|tpa)\s.*
+    value: 1643151823343
+money: '0'
+last-account-name: ClayGoddessSari
+logoutlocation:
+  world: f9afaab9-ef3b-4e60-8e5c-ef68e21e660a
+  world-name: world
+  x: -3046.300000011921
+  y: 72.0
+  z: -3039.699999988079
+  yaw: 16.99639892578125
+  pitch: 16.798648834228516

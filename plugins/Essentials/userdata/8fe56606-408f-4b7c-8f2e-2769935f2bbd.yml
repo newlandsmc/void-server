@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.83.167.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643441521175
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643441640273
+  login: 1643441080237
+money: '0'
+last-account-name: devilsmiata
+logoutlocation:
+  world: f9afaab9-ef3b-4e60-8e5c-ef68e21e660a
+  world-name: world
+  x: 2206.5
+  y: 86.0
+  z: 4708.5
+  yaw: 161.2364044189453
+  pitch: -4.199981212615967
+lastlocation:
+  world: f9afaab9-ef3b-4e60-8e5c-ef68e21e660a
+  world-name: world
+  x: 3092.699999988079
+  y: 80.30421341792974
+  z: 7214.699999988079
+  yaw: 19.722841262817383
+  pitch: 8.999787330627441

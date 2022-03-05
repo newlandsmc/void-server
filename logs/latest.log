@@ -1,0 +1,112 @@
+[14:10:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:10:59] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[14:11:00] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:11:03] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[14:11:03] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[14:11:03] [Server thread/INFO]: Loading properties
+[14:11:03] [Server thread/INFO]: This server is running Paper version git-Paper-207 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: b757019)
+[14:11:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:11:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:11:04] [Server thread/INFO]: Default game type: SURVIVAL
+[14:11:04] [Server thread/INFO]: Generating keypair
+[14:11:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:11:04] [Server thread/INFO]: Using epoll channel type
+[14:11:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:11:04] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:11:05] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.98
+[14:11:06] [Server thread/INFO]: [VoidGen] Loading VoidGen v2.2.1
+[14:11:06] [Server thread/INFO]: [Announcer] Loading Announcer v1.0-SNAPSHOT
+[14:11:06] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.3
+[14:11:06] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.19.3
+[14:11:06] [Server thread/INFO]: [CarbonChat] Loading CarbonChat v2.0.7-SNAPSHOT
+[14:11:07] [Server thread/INFO]: [CarbonChat] Found locale Norwegian Nynorsk (Norway) (nn_NO) in: /locale/messages-nn_NO.properties
+[14:11:07] [Server thread/INFO]: [CarbonChat] Successfully loaded locale Norwegian Nynorsk (Norway) (nn_NO)
+[14:11:07] [Server thread/INFO]: [CarbonChat] Found locale Dutch (Netherlands) (nl_NL) in: /locale/messages-nl_NL.properties
+[14:11:07] [Server thread/INFO]: [CarbonChat] Successfully loaded locale Dutch (Netherlands) (nl_NL)
+[14:11:07] [Server thread/INFO]: [CarbonChat] Found locale Norwegian (Norway) (no_NO) in: /locale/messages-nb_NO.properties
+[14:11:07] [Server thread/INFO]: [CarbonChat] Successfully loaded locale Norwegian (Norway) (no_NO)
+[14:11:07] [Server thread/INFO]: [CarbonChat] Found locale Japanese (Japan) (ja_JP) in: /locale/messages-ja_JP.properties
+[14:11:07] [Server thread/INFO]: [CarbonChat] Successfully loaded locale Japanese (Japan) (ja_JP)
+[14:11:07] [Server thread/INFO]: [CarbonChat] Found locale English (United States) (en_US) in: /locale/messages-en_US.properties
+[14:11:07] [Server thread/INFO]: [CarbonChat] Successfully loaded locale English (United States) (en_US)
+[14:11:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:11:07] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.98
+[14:11:08] [Server thread/INFO]:         __    
+[14:11:08] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.98
+[14:11:08] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[14:11:08] [Server thread/INFO]: 
+[14:11:08] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:11:09] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:11:10] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:11:10] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:11:10] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2698ms)
+[14:11:10] [Server thread/INFO]: [VoidGen] Enabling VoidGen v2.2.1
+[14:11:10] [Server thread/INFO]: [VoidGen] Using VoidChunkGen: VERSION_1_17_1
+[14:11:10] [Server thread/INFO]: Preparing level "world"
+[14:11:11] [Server thread/INFO]: [VoidGen] Generator settings have not been set. Using default values:
+[14:11:11] [Server thread/INFO]: [VoidGen] {"caves":false,"decoration":false,"mobs":false,"structures":false,"noise":false,"surface":false,"bedrock":false}
+[14:11:11] [Server thread/INFO]: [VoidGen] {"biome":"END_BARRENS","caves":false,"decoration":false,"mobs":false,"structures":false,"noise":false,"surface":false,"bedrock":false}
+[14:11:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:11:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:11:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:11:12] [Server thread/INFO]: Time elapsed: 714 ms
+[14:11:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:11:13] [Server thread/INFO]: Time elapsed: 565 ms
+[14:11:13] [Server thread/INFO]: [Announcer] Enabling Announcer v1.0-SNAPSHOT
+[14:11:13] [Server thread/INFO]: Loaded (0) messages!
+[14:11:13] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.3
+[14:11:13] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[14:11:14] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[14:11:14] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[14:11:15] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[14:11:15] [Server thread/WARN]: [Essentials] No aliases found in custom_items.yml.
+[14:11:15] [Server thread/INFO]: [Essentials] Using locale en
+[14:11:15] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:11:15] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:11:15] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[14:11:15] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[14:11:15] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[14:11:15] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.19.3
+[14:11:15] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[14:11:15] [Server thread/INFO]: [CarbonChat] Enabling CarbonChat v2.0.7-SNAPSHOT
+[14:11:15] [Server thread/INFO]: [CarbonChat] Default channel is [carbon:global]
+[14:11:16] [Server thread/WARN]: [CarbonChat] Registered channels: [carbon:global]
+[14:11:16] [Server thread/INFO]: Starting GS4 status listener
+[14:11:16] [Server thread/INFO]: Thread Query Listener started
+[14:11:16] [Server thread/INFO]: Starting remote control listener
+[14:11:16] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[14:11:16] [Server thread/INFO]: Thread RCON Listener started
+[14:11:16] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[14:11:16] [Server thread/INFO]: Running delayed init tasks
+[14:11:16] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[14:11:16] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] 
+[14:11:16] [Server thread/INFO]: Done (12.622s)! For help, type "help"
+[14:11:16] [Server thread/INFO]: Timings Reset
+[14:11:23] [User Authenticator #1/INFO]: UUID of player sudokou is 244a663c-bc0a-465e-8697-0c00ca7c5906
+[14:11:23] [Server thread/INFO]: sudokou[/64.83.167.60:65056] logged in with entity id 2 at ([world_the_end]8.699999988079071, 63.0, -7.662648282330828)
+[14:13:40] [Async Chat Thread - #0/INFO]: %luckperms_prefix%sudokou: .
+[14:13:41] [Async Chat Thread - #0/INFO]: %luckperms_prefix%sudokou: kohjer
+[14:13:42] [Server thread/INFO]: sudokou issued server command: /lkjhe
+[14:13:44] [Server thread/INFO]: sudokou issued server command: /he
+[14:13:45] [Server thread/INFO]: sudokou issued server command: /hjelp
+[14:15:36] [Server thread/INFO]: sudokou lost connection: Disconnected
+[14:15:43] [Server thread/INFO]: Stopping server
+[14:15:43] [Server thread/INFO]: [CarbonChat] Disabling CarbonChat v2.0.7-SNAPSHOT
+[14:15:43] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.19.3
+[14:15:43] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.3
+[14:15:43] [Server thread/INFO]: [Announcer] Disabling Announcer v1.0-SNAPSHOT
+[14:15:43] [Server thread/INFO]: [VoidGen] Disabling VoidGen v2.2.1
+[14:15:43] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.98
+[14:15:43] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[14:15:43] [Server thread/INFO]: [LuckPerms] Closing storage...
+[14:15:43] [Server thread/INFO]: [LuckPerms] Goodbye!
+[14:15:43] [Server thread/INFO]: Saving players
+[14:15:43] [Server thread/INFO]: Saving worlds
+[14:15:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:15:44] [Server thread/INFO]: Flushing Chunk IO
+[14:15:44] [Server thread/INFO]: Closing Thread Pool
+[14:15:44] [Server thread/INFO]: Closing Server

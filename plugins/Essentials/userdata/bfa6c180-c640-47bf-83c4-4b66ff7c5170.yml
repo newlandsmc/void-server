@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.119.103.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641334123040
+  login: 1641331108186
+money: '0'
+last-account-name: destro174
+logoutlocation:
+  world: fa635a13-d25d-41e7-94fb-d5e739c35f7f
+  world-name: world
+  x: -174.828276064638
+  y: 87.0
+  z: -164.70913221592556
+  yaw: 129.3002166748047
+  pitch: 68.69969177246094

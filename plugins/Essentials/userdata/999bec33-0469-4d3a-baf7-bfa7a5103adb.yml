@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 50.83.247.52
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643081287142
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1645036271680
+  login: 1645036189017
+money: '0'
+last-account-name: ladysquid___
+logoutlocation:
+  world: f9afaab9-ef3b-4e60-8e5c-ef68e21e660a
+  world-name: world
+  x: -2373.6027648201966
+  y: 73.0
+  z: -3992.0387611856613
+  yaw: -122.85282897949219
+  pitch: 27.299957275390625
